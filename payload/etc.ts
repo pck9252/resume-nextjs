@@ -10,7 +10,7 @@ const etc: IEtc.Payload = {
       startedAt: '2025-03',
     },
     {
-      title: 'ADsP',
+      title: 'ADsP 예정',
       subTitle: '한국데이터산업진흥원',
       startedAt: '2025-08',
     },

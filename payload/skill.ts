@@ -8,24 +8,16 @@ const programmingLanguages: ISkill.Skill = {
       level: 3,
     },
     {
-      title: 'Shell Scripting',
+      title: 'Java',
       level: 3,
     },
     {
       title: 'Python',
-      level: 3,
-    },
-    {
-      title: 'Perl',
       level: 2,
     },
     {
-      title: 'Golang',
+      title: 'Java Script',
       level: 2,
-    },
-    {
-      title: 'Rust',
-      level: 1,
     },
   ],
 };

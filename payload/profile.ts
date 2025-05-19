@@ -11,12 +11,12 @@ const profile: IProfile.Payload = {
   // image: 'https://resume.yowu.dev/static/image/profile_2019.png',
   image,
   name: {
-    title: 'Tux Linux Penguin',
-    small: '(Tux)',
+    title: '박진우',
+    small: 'JPack',
   },
   contact: [
     {
-      title: 'tux@linux.org',
+      title: 'pck021227@gmail.com',
       link: 'mailto:tux@linux.org',
       icon: faEnvelope,
     },
@@ -26,7 +26,7 @@ const profile: IProfile.Payload = {
       badge: true,
     },
     {
-      link: 'https://github.com/uyu423/resume-nextjs',
+      link: 'https://github.com/pck9252/resume-nextjs',
       icon: faGithub,
     },
     {

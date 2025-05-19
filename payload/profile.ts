@@ -11,8 +11,8 @@ const profile: IProfile.Payload = {
   // image: 'https://resume.yowu.dev/static/image/profile_2019.png',
   image,
   name: {
-    title: 'Tux Linux Penguin',
-    small: '(Tux)',
+    title: '박진우',
+    small: 'Jinu',
   },
   contact: [
     {
@@ -35,8 +35,7 @@ const profile: IProfile.Payload = {
     },
   ],
   notice: {
-    title:
-      "The content below is all fictitious and is just a sample from 'https://github.com/uyu423/resume-nextjs'.",
+    title: '이메일로 연락주세요',
     icon: faBell,
   },
 };

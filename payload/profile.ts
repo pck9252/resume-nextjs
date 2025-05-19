@@ -1,7 +1,7 @@
 import { faEnvelope, faPhone } from '@fortawesome/free-solid-svg-icons';
 import { faFacebook, faGithub } from '@fortawesome/free-brands-svg-icons';
 
-import { faBell } from '@fortawesome/free-regular-svg-icons';
+
 import { IProfile } from '../component/profile/IProfile';
 import image from '../asset/sample_tux.png';
 
@@ -35,9 +35,7 @@ const profile: IProfile.Payload = {
     },
   ],
   notice: {
-    title:
-      "",
-    icon: faBell,
+    title: '',
   },
 };
 

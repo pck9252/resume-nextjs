@@ -4,38 +4,16 @@ const project: IProject.Payload = {
   disable: false,
   list: [
     {
-      title: 'Linux Kernel Optimization Project',
-      startedAt: '2020-06',
-      where: 'Linux Foundation',
+      title: '1차 캡스톤 디자인',
+      startedAt: '2025-03',
+      where: '배재대학교',
       descriptions: [
         {
-          content:
-            'Initiated and lead a collaborative project aimed at optimizing the Linux Kernel for various hardware architectures.',
+          content: 'AI기반 유저 맞춤형 타로카드 애플리케이션 기획',
         },
         {
-          content:
-            'Achieved significant improvements in system performance and resource management.',
+          content: '현재진행중',
           weight: 'MEDIUM',
-          descriptions: [
-            { content: '30% improvement in system resource efficiency' },
-            { content: 'Job Scheduler Refactor and Optimization' },
-          ],
-        },
-      ],
-    },
-    {
-      title: 'Global Linux Bootcamp',
-      startedAt: '2017-05',
-      endedAt: '2019-12',
-      where: 'Open Source Community',
-      descriptions: [
-        {
-          content:
-            'Organized and conducted training bootcamps focusing on Linux system engineering skills.',
-        },
-        {
-          content:
-            'Successfully trained over 5,000 participants in system administration and security. ',
         },
       ],
     },
